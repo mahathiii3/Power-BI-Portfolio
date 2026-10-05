@@ -110,51 +110,54 @@ A static preview of the Power BI dashboard is provided so that the dashboard can
 
 ### 📥 Dataset
 
-**`Flipkartsales.xlsx`**
-
 The dataset is relatively large and contains multiple sheets and thousands of records.
+
+👉 **[Download Dataset](Flipkartsales.xlsx)**
 
 To explore the complete dataset:
 
-1. Download `Flipkartsales.xlsx`
-2. Open it using **Microsoft Excel**
-3. Explore the `Orders`, `Returns`, and `People` sheets
+1. Click **Download Dataset** above.
+2. Download `Flipkartsales.xlsx`.
+3. Open the file using **Microsoft Excel**.
+4. Explore the `Orders`, `Returns`, and `People` sheets.
 
 ---
 
 ### 📊 Power BI Dashboard
 
-**`FLIPKART SALES DASHBOARD.pbix`**
-
 The complete interactive Power BI dashboard is provided as a `.pbix` file.
+
+👉 **[Download Power BI Dashboard](FLIPKART%20SALES%20DASHBOARD.pbix)**
 
 To view the complete dashboard:
 
-1. Download `FLIPKART SALES DASHBOARD.pbix`
-2. Install/open **Power BI Desktop**
-3. Open the `.pbix` file
-4. Explore the dashboard interactively
+1. Click **Download Power BI Dashboard** above.
+2. Download `FLIPKART SALES DASHBOARD.pbix`.
+3. Open the file using **Power BI Desktop**.
+4. Explore the dashboard interactively.
 
 > ⚠️ **Note:** GitHub does not provide an interactive preview of Power BI `.pbix` files. The `.pbix` file needs to be downloaded and opened using Power BI Desktop to view and interact with the complete dashboard.
 
 ---
 
-## 📦 Files in This Folder
+## 📦 Project Files
 
 | File | Description |
 |---|---|
-| `FLIPKART SALES DASHBOARD.pbix` | Interactive Power BI dashboard |
-| `Flipkartsales.xlsx` | Dataset used for the analysis |
-| `DASHBOARD.png` | Dashboard screenshot/preview |
+| [`FLIPKART SALES DASHBOARD.pbix`](FLIPKART%20SALES%20DASHBOARD.pbix) | Interactive Power BI dashboard |
+| [`Flipkartsales.xlsx`](Flipkartsales.xlsx) | Dataset used for the analysis |
+| [`DASHBOARD.png`](DASHBOARD.png) | Dashboard screenshot and preview |
 | `README.md` | Project documentation |
 
 ---
 
 ## 🔗 Power BI Service
 
-The Power BI Service link will be added after publishing the dashboard.
+The dashboard can also be published to **Power BI Service** for online viewing.
 
-**Power BI Dashboard:** Flipkart-Sales-Dashboard/FLIPKART SALES DASHBOARD.pbix
+**🌐 Power BI Service:** Coming soon.
+
+Once published, an online interactive dashboard link will be added here.
 
 ---
 
