@@ -1,47 +1,106 @@
-# Flipkart Sales Dashboard
+<div align="center">
 
-An interactive **Power BI Sales Dashboard** created to analyze sales performance and generate meaningful business insights.
+# 📊 Power BI Portfolio
 
-> 📌 **Important:** The complete dataset and interactive Power BI dashboard are available as downloadable files in this repository. The dataset is large, and the `.pbix` file needs to be downloaded and opened using **Power BI Desktop** to fully explore and interact with the dashboard.
+### Power BI | Data Analytics | Business Intelligence
+
+A collection of my Power BI dashboards, data visualization work, and analytics practice.
+
+</div>
 
 ---
 
-## 📊 Dashboard Overview
+## 📌 About This Portfolio
 
-This dashboard provides an interactive view of sales performance across different categories, markets, countries, cities, and shipping modes.
+Welcome to my **Power BI Portfolio**.
 
-The dashboard focuses on understanding key business metrics and identifying patterns in sales and profitability.
+This repository contains the Power BI dashboards I create while developing my skills in **Data Analytics, Business Intelligence, Data Visualization, Power Query, and DAX**.
 
-### Key Performance Indicators
+Each dashboard is organized into its own folder along with the dataset, Power BI file, dashboard preview, and project documentation.
 
-| KPI | Value |
-|---|---:|
-| 💰 Total Sales | $12.64M |
-| 📈 Total Profit | $1.47M |
-| 📦 Total Quantity | 178K |
-| 🚚 Total Shipping Cost | $1.35M |
+> 📌 **How to view the projects:** Dashboard previews can be viewed directly on GitHub. The complete datasets and Power BI dashboards are provided as downloadable files. Since some datasets contain thousands of records and Power BI `.pbix` files cannot be previewed interactively on GitHub, download the files to explore them fully.
+
+---
+
+# 📊 Dashboards
+
+## 🛒 Flipkart Sales Dashboard
+
+An interactive Power BI sales dashboard created to analyze sales performance and generate meaningful business insights.
+
+### 🔗 Project Files
+
+| Resource | Description |
+|---|---|
+| 🖼️ [Dashboard Preview](./Flipkart-Sales-Dashboard/DASHBOARD.png) | Static dashboard preview |
+| 📊 [Download Power BI Dashboard](./Flipkart-Sales-Dashboard/FLIPKART%20SALES%20DASHBOARD.pbix) | Complete interactive Power BI file |
+| 📗 [Download Dataset](./Flipkart-Sales-Dashboard/Flipkartsales.xlsx) | Dataset used for the analysis |
+| 📁 [Open Project Folder](./Flipkart-Sales-Dashboard/) | View all project files |
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Flipkart Sales Dashboard](DASHBOARD.png)
+<div align="center">
 
-> The image above provides a quick preview of the dashboard.  
-> For the complete interactive dashboard, download the `.pbix` file below.
+<img src="./Flipkart-Sales-Dashboard/DASHBOARD.png" alt="Flipkart Sales Dashboard" width="100%">
+
+</div>
+
+> 📝 **Note:** The image above is a static preview. To interact with the complete dashboard, download the Power BI `.pbix` file and open it using **Power BI Desktop**.
+
+---
+
+## 📈 Key Performance Indicators
+
+| 💰 Total Sales | 📈 Total Profit | 📦 Total Quantity | 🚚 Shipping Cost |
+|:---:|:---:|:---:|:---:|
+| **$12.64M** | **$1.47M** | **178K** | **$1.35M** |
+
+---
+
+## 🔍 Dashboard Analysis
+
+The dashboard provides analysis across multiple business dimensions.
+
+### 📊 Sales Analysis
+
+- Sales by Category
+- Sales by Market
+- Sales by City
+- Sales by Ship Mode
+- Overall Sales Performance
+
+### 💰 Profit Analysis
+
+- Profit by Country
+- Overall Profit Performance
+- Comparison of profitability across countries
+
+### 📦 Operational Analysis
+
+- Quantity Analysis
+- Shipping Cost Analysis
+- Ship Mode Performance
 
 ---
 
 ## 📁 Dataset
 
-The dataset contains detailed information related to orders, customers, products, locations, sales, profit, shipping, and returns.
+The dataset contains detailed information related to orders, customers, products, geographic locations, sales, profit, shipping, and returns.
 
-### Dataset Sheets
+### 📋 Dataset Structure
 
-#### 1. Orders
+| Sheet | Description |
+|---|---|
+| **Orders** | Main sales and order-level data |
+| **Returns** | Returned orders and market information |
+| **People** | Regional people/manager information |
 
-- 51,289 records
-- 24 columns
+### 📊 Orders
+
+- **51,289 records**
+- **24 columns**
 - Order and shipping information
 - Customer details
 - Customer segments
@@ -54,139 +113,68 @@ The dataset contains detailed information related to orders, customers, products
 - Shipping Cost
 - Order Priority
 
-#### 2. Returns
+### 🔄 Returns
 
-- 1,173 return records
+- **1,173 return records**
 - Return status
 - Order ID
 - Market
 
-#### 3. People
+### 👥 People
 
 - Regional people/manager information
-- 13 records
+- **13 records**
 
 ### 📅 Dataset Period
 
 **2011 – 2014**
 
----
+> 📌 **Dataset Note:** The dataset is relatively large and contains multiple sheets and thousands of records. GitHub may not provide a convenient preview of the complete Excel workbook. Download the dataset to explore the full data in Microsoft Excel.
 
-## 🔍 Analysis Covered
-
-The dashboard provides analysis across multiple business dimensions, including:
-
-- 📊 Sales by Category
-- 💰 Profit by Country
-- 🏙️ Sales by City
-- 🌎 Sales by Market
-- 🚚 Sales by Ship Mode
-- 📦 Quantity Analysis
-- 🚛 Shipping Cost Analysis
-- 💵 Overall Sales Performance
-- 📈 Overall Profit Performance
+👉 **[⬇️ Download the Complete Dataset](./Flipkart-Sales-Dashboard/Flipkartsales.xlsx)**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI** – Dashboard development and data visualization
-- **Microsoft Excel** – Dataset
-- **Power Query** – Data preparation and transformation
-- **DAX** – Measures and calculations
-- **Data Visualization** – Interactive charts, KPIs, and business reporting
+| Tool | Purpose |
+|---|---|
+| 📊 **Power BI** | Dashboard development and visualization |
+| 📗 **Microsoft Excel** | Dataset |
+| 🔄 **Power Query** | Data preparation and transformation |
+| 📐 **DAX** | Measures and calculations |
+| 📈 **Data Visualization** | Business reporting and insights |
 
 ---
 
-## 📂 Files & How to View Them
+## 📊 Power BI Dashboard
 
-### 📊 Dashboard Screenshot
+The complete interactive dashboard is available as a `.pbix` file.
 
-**[`DASHBOARD.png`](DASHBOARD.png)**
+<div align="center">
 
-A static preview of the Power BI dashboard is provided so that the dashboard can be viewed directly on GitHub.
+### 👉 [⬇️ Download Power BI Dashboard](./Flipkart-Sales-Dashboard/FLIPKART%20SALES%20DASHBOARD.pbix)
 
----
+</div>
 
-### 📥 Dataset
+### How to View
 
-The dataset is relatively large and contains multiple sheets and thousands of records.
-
-👉 **[Download Dataset](Flipkartsales.xlsx)**
-
-To explore the complete dataset:
-
-1. Click **Download Dataset** above.
-2. Download `Flipkartsales.xlsx`.
-3. Open the file using **Microsoft Excel**.
-4. Explore the `Orders`, `Returns`, and `People` sheets.
-
----
-
-### 📊 Power BI Dashboard
-
-The complete interactive Power BI dashboard is provided as a `.pbix` file.
-
-👉 **[Download Power BI Dashboard](FLIPKART%20SALES%20DASHBOARD.pbix)**
-
-To view the complete dashboard:
-
-1. Click **Download Power BI Dashboard** above.
+1. Click **Download Power BI Dashboard**.
 2. Download `FLIPKART SALES DASHBOARD.pbix`.
 3. Open the file using **Power BI Desktop**.
 4. Explore the dashboard interactively.
 
-> ⚠️ **Note:** GitHub does not provide an interactive preview of Power BI `.pbix` files. The `.pbix` file needs to be downloaded and opened using Power BI Desktop to view and interact with the complete dashboard.
+> ⚠️ **Important:** GitHub does not provide an interactive preview of Power BI `.pbix` files. The `.pbix` file must be downloaded and opened using **Power BI Desktop** to view and interact with the complete dashboard.
 
 ---
 
-## 📦 Project Files
+## 📂 Project Files
 
-| File | Description |
-|---|---|
-| [`FLIPKART SALES DASHBOARD.pbix`](FLIPKART%20SALES%20DASHBOARD.pbix) | Interactive Power BI dashboard |
-| [`Flipkartsales.xlsx`](Flipkartsales.xlsx) | Dataset used for the analysis |
-| [`DASHBOARD.png`](DASHBOARD.png) | Dashboard screenshot and preview |
-| `README.md` | Project documentation |
+Everything related to this dashboard is available inside the project folder.
 
----
-
-## 🔗 Power BI Service
-
-The dashboard can also be published to **Power BI Service** for online viewing.
-
-**🌐 Power BI Service:** Coming soon.
-
-Once published, an online interactive dashboard link will be added here.
-
----
-
-## 🎯 Purpose
-
-This dashboard was created as part of my ongoing **Power BI and Data Analytics practice**.
-
-The main objective was to strengthen skills in:
-
-- Data visualization
-- Data analysis
-- Dashboard development
-- Power Query
-- DAX
-- KPI creation
-- Business reporting
-- Converting raw data into meaningful insights
-
----
-
-## 📌 Key Takeaway
-
-This project demonstrates the process of taking a large dataset, analyzing important business metrics, and presenting the results through an interactive Power BI dashboard.
-
----
-
-## 👩‍💻 Author
-
-**Mahathi Vaka**
-
-**Focus Areas:**  
-Data Analytics | Business Intelligence | Power BI | Data Visualization
+```text
+Flipkart-Sales-Dashboard/
+│
+├── DASHBOARD.png
+├── FLIPKART SALES DASHBOARD.pbix
+└── Flipkartsales.xlsx
