@@ -154,7 +154,7 @@ To view the complete dashboard:
 
 The Power BI Service link will be added after publishing the dashboard.
 
-**Power BI Dashboard:** Coming soon.
+**Power BI Dashboard:** Flipkart-Sales-Dashboard/FLIPKART SALES DASHBOARD.pbix
 
 ---
 
