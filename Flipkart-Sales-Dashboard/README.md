@@ -102,7 +102,7 @@ The dashboard provides analysis across multiple business dimensions, including:
 
 ### 📊 Dashboard Screenshot
 
-**`DASHBOARD.png`**
+**[`DASHBOARD.png`](DASHBOARD.png)**
 
 A static preview of the Power BI dashboard is provided so that the dashboard can be viewed directly on GitHub.
 
